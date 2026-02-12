@@ -12,15 +12,15 @@ Now applying the same design thinking to data uncovering insights, building dash
 
 ###
 
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg width="40" height="40")
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg width="40" height="40")
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg width="40" height="40")
+![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg width="40" height="40")
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg width="40" height="40")
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width="40" height="40")
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg width="40" height="40")
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg width="40" height="40")
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg width="40" height="40")
 
 
 ###
