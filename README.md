@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi 👋, I'm Jen</h1>
 <h3 align="left">Frontend Designer turned Data Analyst with 10+ years of experience translating complex problems into clear, user-centered solutions. 
-Now applying the same design thinking to data uncovering insights, building dashboards, and telling stories that drive better decisions.</h3>
+Now applying the same design thinking to data by uncovering insights, building dashboards, and telling stories that drive better decisions.</h3>
 
 ###
 
